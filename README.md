@@ -11,5 +11,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact)](https://github.com/b-tekinli/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b-tekinli)](https://github.com/b-tekinli/github-readme-stats)
