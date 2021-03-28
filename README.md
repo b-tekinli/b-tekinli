@@ -8,4 +8,4 @@
 - 📚 I think reading books is the easiest way to improve yourself.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=daf7dc&bg_color=ff0000">
+<img src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
