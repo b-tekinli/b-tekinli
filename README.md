@@ -15,8 +15,8 @@
 <a href="https://github.com/b-tekinli/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/b-tekinli/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=convoychat" />
+<a href="https://github.com/b-tekinli/ReCapProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject" />
 </a>
 
 
