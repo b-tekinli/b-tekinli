@@ -18,11 +18,7 @@
   
  <br />
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=vue)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=vue)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
 
 <br />
 
@@ -30,12 +26,13 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/ryo-ma/github-profile-trophy)  
+![GitHub metrics](https://metrics.lecoq.io/b-tekinli)
 
 <br />
 
-![GitHub metrics](https://metrics.lecoq.io/b-tekinli) 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/ryo-ma/github-profile-trophy)  
+ 
+ 
 <br />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-tekinli)
