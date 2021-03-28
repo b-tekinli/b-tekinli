@@ -10,19 +10,17 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&count_private=true)
-
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli)](https://github.com/b-tekinli/github-readme-stats)
   
-  <br />
+ <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/ryo-ma/github-profile-trophy)
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=vue)
 
 <br />
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=vue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
