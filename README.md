@@ -18,8 +18,8 @@
   
  <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
 ![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=b-tekinli)  
 
 <br />
