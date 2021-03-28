@@ -10,6 +10,9 @@
 
 <br />
 
+![Profile views](https://gpvc.arturio.dev/b-tekinli)  
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -36,10 +39,6 @@
 <br />
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=b-tekinli)
-
-<br />
-
-![Profile views](https://gpvc.arturio.dev/b-tekinli)  
 
 </details>
 
