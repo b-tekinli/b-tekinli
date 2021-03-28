@@ -10,9 +10,13 @@
 
 <br />
 
-## ![](https://visitor-badge.laobi.icu/badge?page_id=b-tekinli.b-tekinli) **|** [![Github](https://img.shields.io/github/followers/b-tekinli?label=Follow&style=social)](https://github.com/b-tekinli)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&count_private=true)
 
-<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -23,6 +27,10 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
+
+</details>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br />
 
