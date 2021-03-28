@@ -26,9 +26,7 @@
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/b-tekinli/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=juicyfresh)]
- 
- 
+
 <br />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-tekinli)
