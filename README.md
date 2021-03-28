@@ -8,16 +8,20 @@
 - ⚡ I spend almost 9-10 hours a day developing software.
 - 📚 I think reading books is the easiest way to improve yourself.
 
+<br />
 
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=b-tekinli.b-tekinli) **|** [![Github](https://img.shields.io/github/followers/b-tekinli?label=Follow&style=social)](https://github.com/b-tekinli)
 
+<br />
 
 <a href="https://github.com/b-tekinli/ReCapProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject" />
 </a>
 
+<br />
 
 ![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=vue)
 
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
