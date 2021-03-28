@@ -9,6 +9,9 @@
 - 📚 I think reading books is the easiest way to improve yourself.
 
 
+## ![](https://visitor-badge.laobi.icu/badge?page_id=b-tekinli.b-tekinli) **|** [![Github](https://img.shields.io/github/followers/b-tekinli?label=Follow&style=social)](https://github.com/b-tekinli)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=github-readme-stats)](https://github.com/b-tekinli/github-readme-stats)
 
 
