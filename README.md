@@ -12,9 +12,6 @@
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=b-tekinli.b-tekinli) **|** [![Github](https://img.shields.io/github/followers/b-tekinli?label=Follow&style=social)](https://github.com/b-tekinli)
 
 
-<a href="https://github.com/b-tekinli/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=github-readme-stats" />
-</a>
 <a href="https://github.com/b-tekinli/ReCapProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject" />
 </a>
