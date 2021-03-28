@@ -23,6 +23,10 @@
 
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-tekinli)  
 
 <br />
