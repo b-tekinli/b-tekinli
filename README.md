@@ -33,6 +33,14 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/b-tekinli) 
 
+<br />
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=b-tekinli)
+
+<br />
+
+![Profile views](https://gpvc.arturio.dev/b-tekinli)  
+
 </details>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,6 +52,4 @@
 <br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/beyzanur-tekinli-8a1b421a7//)
-
-
 
