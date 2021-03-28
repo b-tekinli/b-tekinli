@@ -20,13 +20,7 @@
 </a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=github-readme-stats)](https://github.com/b-tekinli/github-readme-stats)
-
-
 ![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=vue)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b-tekinli)](https://github.com/b-tekinli/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
