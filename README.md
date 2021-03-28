@@ -12,7 +12,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli)](https://github.com/b-tekinli/github-readme-stats)
   
  <br />
 
@@ -20,11 +19,15 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-tekinli)  
+
+<br />
+
+![GitHub metrics](https://metrics.lecoq.io/b-tekinli) 
 
 </details>
 
