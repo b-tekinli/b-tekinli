@@ -9,7 +9,7 @@
 - 📚 I think reading books is the easiest way to improve yourself.
 
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true)
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=radical)
 
 
 
