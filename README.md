@@ -22,7 +22,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=b-tekinli)
 ![GitHub metrics](https://metrics.lecoq.io/b-tekinli)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
-[![Beyza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b-tekinli)](https://github.com/b-tekinli/github-readme-stats)
 
 <br />
 
