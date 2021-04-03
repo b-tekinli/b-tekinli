@@ -14,6 +14,7 @@
 
 
 <details>
+  
   <summary>:zap: GitHub Stats</summary>
   
  <br />
@@ -24,6 +25,9 @@
 <br />
 
 ![GitHub metrics](https://metrics.lecoq.io/b-tekinli)
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=8)](https://github.com/b-tekinli/github-readme-stats)
 
 <br />
