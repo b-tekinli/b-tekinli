@@ -33,7 +33,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=12)](https://github.com/b-tekinli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=15)](https://github.com/b-tekinli/github-readme-stats)
 
 <br />
 
