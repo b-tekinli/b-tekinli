@@ -20,7 +20,7 @@
 <br />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend&title_color=fdf000&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Frontend&title_color=fdf000&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend&title_color=fdf000&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Frontend&title_color=FF4B4B&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
@@ -31,6 +31,14 @@
   <summary>:zap: GitHub Stats</summary>
   
  <br />
+
+<a href="https://github.com/b-tekinli/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/b-tekinli/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=convoychat" />
+</a>
+
 
 
 ![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=FF4B4B&icon_color=ffdf00&text_color=ffffff&bg_color=292E36&icon=#5C4F31&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=21&title_color=ff0000&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
