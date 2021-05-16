@@ -25,6 +25,7 @@
 
 <br />
 
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=b-tekinli)
 
 <br />
@@ -38,8 +39,6 @@
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)(https://github.com/b-tekinli/github-profile-trophy)
-
-
 
 <br />
 
