@@ -23,9 +23,8 @@
 
 ![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137&hide_border=true)
 
-<br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=github-readme-stats)](https://github.com/b-tekinli/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend)]
 
 
 <br />
