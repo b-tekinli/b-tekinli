@@ -10,16 +10,20 @@
 - ⚡ I spend almost 9-10 hours per day developing software.
 - 📚 I think reading books is the easiest way to improve yourself.
 
+
 <br />
+
 
 ![Profile views](https://gpvc.arturio.dev/b-tekinli)  
 
-<br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend)](https://github.com/b-tekinli/github-readme-stats)
 
 <br />
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend&title_color=ff0000&text_color=ffffff&bg_color=313137&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
+
+
+<br />
 
 
 <details>
@@ -29,7 +33,7 @@
  <br />
 
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=15&title_color=ff0000)](https://github.com/b-tekinli/github-readme-stats)
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=21&title_color=ff0000&text_color=ffffff&bg_color=313137&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
