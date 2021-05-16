@@ -40,7 +40,7 @@
 <br />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=vision-friendly-dark&hide_border=true&dates=FDFF00&background=292E36&stroke=FFFFFF&ring=FF0000&fire=DDCB00&currStreakNum=02FF6B&sideNums=5ED9DD&currStreakLabel=29DDDA&sideLabels=DD3B3B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=gruvbox_duo&hide_border=true&background=292E36&stroke=57DD9E&ring=DD7D7D&fire=DD2727&currStreakNum=DD9F60&sideNums=05AADD&currStreakLabel=DD2727&sideLabels=DD5855&dates=00FF0E)](https://git.io/streak-stats)
 
 
 <br />
