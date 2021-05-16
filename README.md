@@ -14,6 +14,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/b-tekinli)  
 
+<br />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend)](https://github.com/b-tekinli/github-readme-stats)
+
+<br />
+
+
 
 <details>
   
@@ -21,39 +28,41 @@
   
  <br />
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=15)](https://github.com/b-tekinli/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend)](https://github.com/b-tekinli/github-readme-stats)
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=15&title_color=ff0000)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=vision-friendly-dark&hide_border=true&dates=FDFF00&background=313137&stroke=FFFFFF&ring=FF0000&fire=DDCB00&currStreakNum=02FF6B&sideNums=5ED9DD&currStreakLabel=29DDDA&sideLabels=DD3B3B)](https://git.io/streak-stats)
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&langs_count=15)](https://github.com/b-tekinli/github-readme-stats)
 
 <br />
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)
 
+
 <br />
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-tekinli)
 
 <br />
 
+
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
 
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 <br />
 <br />
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/beyzanur-tekinli-8a1b421a7//)
 
