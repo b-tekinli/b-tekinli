@@ -25,7 +25,7 @@
 
 <br />
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=vision-friendly-dark&hide_border=true&dates=FDFF00&background=313137&stroke=FFFFFF&ring=FF0000&fire=DDCB00&currStreakNum=02FF6B&sideNums=5ED9DD&currStreakLabel=29DDDA&sideLabels=DD3B3B)](https://git.io/streak-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=b-tekinli)
 
 <br />
