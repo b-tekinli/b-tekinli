@@ -20,7 +20,7 @@
 <br />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend&title_color=5C4F31&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Frontend&title_color=fdf000&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend&title_color=fdf000&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Frontend&title_color=fdf000&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
