@@ -21,7 +21,7 @@
   
  <br />
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137) 
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137&hide_border=true) 
 
 <br />
 
