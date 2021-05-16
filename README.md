@@ -20,7 +20,7 @@
 <br />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend&title_color=ff0000&text_color=ffffff&bg_color=313137&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Backend&title_color=fdf000&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=ReCapProject-Frontend&title_color=fdf000&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
@@ -33,13 +33,13 @@
  <br />
 
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=313137&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=21&title_color=ff0000&text_color=ffffff&bg_color=313137&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffdf00&text_color=ffffff&bg_color=292E36&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=21&title_color=ff0000&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=vision-friendly-dark&hide_border=true&dates=FDFF00&background=313137&stroke=FFFFFF&ring=FF0000&fire=DDCB00&currStreakNum=02FF6B&sideNums=5ED9DD&currStreakLabel=29DDDA&sideLabels=DD3B3B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=vision-friendly-dark&hide_border=true&dates=FDFF00&background=292E36&stroke=FFFFFF&ring=FF0000&fire=DDCB00&currStreakNum=02FF6B&sideNums=5ED9DD&currStreakLabel=29DDDA&sideLabels=DD3B3B)](https://git.io/streak-stats)
 
 
 <br />
@@ -52,6 +52,7 @@
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-tekinli)
+
 
 <br />
 
