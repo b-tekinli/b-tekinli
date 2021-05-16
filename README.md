@@ -29,7 +29,7 @@
 
 <br />
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/b-tekinli) -->
+![GitHub metrics](https://metrics.lecoq.io/b-tekinli)
 
 <br />
 
