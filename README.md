@@ -1,6 +1,6 @@
 ### Hi there, I'm Beyza 👋
 
-<img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right" margin="50px">
+<img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right" padding="50px">
 
 ## I'm a computer programmer :computer:
 
