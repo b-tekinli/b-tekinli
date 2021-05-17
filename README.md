@@ -46,7 +46,7 @@
 <br />
 
 
-[!trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)]
 
 
 <br />
