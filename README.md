@@ -34,13 +34,13 @@
  
 
 ![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=66ff66&icon_color=ffdf00&text_color=ffffff&bg_color=292E36&icon=5C4F31&ring=292E36&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=21&title_color=66ff66&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=gruvbox_duo&hide_border=true&background=292E36&stroke=00B3DD&ring=DD7D7D&fire=DD2727&currStreakNum=DD9F60&sideNums=DD9100&currStreakLabel=DD2727&sideLabels=DD5855&dates=FFDDA5)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=21&title_color=66ff66&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 
 
 <br />
