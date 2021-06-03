@@ -5,7 +5,7 @@
 
 
 ## I'm a computer programmer :computer:
-
+  
 - ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration.
 
 - 🔭 I’m currently working on Frontend Development and learning C/C#.  <br />
