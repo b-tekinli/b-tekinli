@@ -1,23 +1,23 @@
-### Hi there, I'm Beyza 👋
+### Hi there, I'm Beyza 👋  
 
-<img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right"> 
 
-## I'm a computer programmer :computer:
+## I'm a computer programmer :computer: 
 
-- ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration.
+- ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration. 
 
 - 🔭 I’m currently working on Frontend Development.  <br />
-- 💬 I love software so I spend my waste time with it. For example, I watch seminar about software while I drink tea in the evenings. Sometimes, if I have a problem about my project, I try to solve that project without sleeping until morning. My only goal is that to make the world a better place for all of us.   <br />
-- ✌️ I want to collaborate with a group on a project.  <br />
-- 📚 I think reading books is the easiest way to improve yourself.  <br />
+- 💬 I love software so I spend my waste time with it. For example, I watch seminar about software while I drink tea in the evenings. Sometimes, if I have a problem about my project, I try to solve that project without sleeping until morning. My only goal is that to make the world a better place for all of us.   <br /> 
+- ✌️ I want to collaborate with a group on a project.  <br /> 
+- 📚 I think reading books is the easiest way to improve yourself.  <br /> 
 
 
 <br />
-
-
+ 
+ 
 ![Profile views](https://gpvc.arturio.dev/b-tekinli)
-
-
+ 
+ 
 <br />
 
 
