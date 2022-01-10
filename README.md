@@ -2,7 +2,7 @@
 
 <img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right">
 
-## I'm a computer programmer :computer:
+## I'm a computer programmer :computer: 
 
 - ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration.
 
