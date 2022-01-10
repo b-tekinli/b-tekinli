@@ -48,6 +48,12 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)
+ 
+ 
+<br />
+ 
+ 
+![snake](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
 
 <br />
