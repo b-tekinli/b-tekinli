@@ -42,18 +42,19 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=gruvbox_duo&hide_border=true&background=292E36&stroke=00B3DD&ring=DD7D7D&fire=DD2727&currStreakNum=DD9F60&sideNums=DD9100&currStreakLabel=DD2727&sideLabels=DD5855&dates=FFDDA5)](https://git.io/streak-stats)
-
-
-<br />
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)
+ 
  
  
 <br />
  
  
 ![snake](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+
+
+<br />
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)
 
 
 <br />
