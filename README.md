@@ -48,7 +48,9 @@
 <br />
  
  
-![snake](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+<div>
+    <img src="https://raw.githubusercontent.com/b-tekinli/muhiqsimui/output/github-contribution-grid-snake.svg" />
+</div>
 
 
 <br />
