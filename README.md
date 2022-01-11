@@ -49,7 +49,7 @@
  
  
 <div>
-    <img src="https://raw.githubusercontent.com/muhiqsimui/b-tekinli/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/b-tekinli/b-tekinli/output/github-contribution-grid-snake.svg" />
 </div>
 
 
