@@ -6,7 +6,6 @@
 
 
 - ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration.
-
 - 🔭 I’m currently working on Frontend Development.  <br />
 - 💬 I love software so I spend my waste time with it. For example, I watch seminar about software while I drink tea in the evenings. Sometimes, if I have a problem about my project, I try to solve that project without sleeping until morning. My only goal is that to make the world a better place for all of us.   <br />
 - ✌️ I want to collaborate with a group on a project.  <br />
@@ -42,6 +41,7 @@
   </a>
 </p>
 
+  
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=66ff66&icon_color=ffdf00&text_color=ffffff&bg_color=292E36&icon=5C4F31&ring=292E36&hide_border=true) -->
 
  
@@ -62,7 +62,7 @@
  
  
 <div>
-    <img src="https://raw.githubusercontent.com/b-tekinli/b-tekinli/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div>
 
 
