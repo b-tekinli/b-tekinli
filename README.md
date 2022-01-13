@@ -12,7 +12,7 @@
 - 📚 I think reading books is the easiest way to improve yourself.  <br />
 
 
-<br /> 
+<br />
 
 
 ![Profile views](https://gpvc.arturio.dev/b-tekinli) 
