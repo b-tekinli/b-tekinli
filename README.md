@@ -80,14 +80,6 @@
  <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=25&title_color=66ff66&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 -->
-  
-<br />
- 
- 
- 
-<div>
-    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 <br />
