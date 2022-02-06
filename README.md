@@ -18,6 +18,12 @@
 ![Profile views](https://gpvc.arturio.dev/b-tekinli) 
 
 
+<br />
+
+
+[snake gif](https://github.com/b-tekinli/b-tekinli/blob/output/github-contribution-grid-snake.gif)
+
+
 <br /> 
 
 
