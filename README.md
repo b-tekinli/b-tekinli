@@ -1,4 +1,4 @@
-### Hi there, I'm Beyza 👋 
+### Hi there, I'm Beyza 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Computer+Programmer,++Frontend+Developer+and+Freelancer+💻)](https://git.io/typing-svg)
 
