@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Frontend Development.  <br />
 - 💬 I love software so I spend my waste time with it. For example, I watch seminar about software while I drink tea in the evenings. Sometimes, if I have a problem about my project, I try to solve that project without sleeping until morning. My only goal is that to make the world a better place for all of us.   <br />
 - ✌️ I want to collaborate with a group on a project.  <br />
-- 📚 I think reading books is the easiest way to improve yourself.  <br />
+- 📚 I think reading books is the easiest way to improve yourself. (Clean Code - Robert Martin)  <br />
 
 
 <br />
