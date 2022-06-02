@@ -1,6 +1,6 @@
 ### Hi there, I'm Beyza 👋                           
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Computer+Programmer,++Frontend+Developer+and+Freelancer+💻)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Computer+Programmer,+and+Frontend+Developer💻)](https://git.io/typing-svg)
 
 <img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right">
 
