@@ -59,7 +59,7 @@
   <summary>:zap: GitHub Stats</summary>
 -->
 
-#Github Stats
+# Github Stats
 
  <br />
  
@@ -138,7 +138,7 @@
    <summary>:zap: Languages and Tools</summary>
  -->
  
- #Languages and Tools
+ # Languages and Tools
  
  <br />
  
