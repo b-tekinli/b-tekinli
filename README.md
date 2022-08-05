@@ -44,7 +44,7 @@
 | 3  | ft_printf   | [![btekinli's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2596504)](https://github.com/JaeSeoKim/badge42) |  | 11 | CPP Module 00   | 🔒   |  | 22A | ft_irc | 🔒   |
 | 4  | get_next_line   | [![btekinli's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2596503)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | 🔒   |  | 22B | webserv | 🔒   |
 | 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
-| 5B  | so_long   | 🔒 |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
+| 5B  | so_long   | [![btekinli's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2704147)](https://github.com/JaeSeoKim/badge42) |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
 | 6A  | minitalk   | [![btekinli's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2697984)](https://github.com/JaeSeoKim/badge42) |  | 15 | CPP Module 04   | 🔒   |  |  |  |    |
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  |  |  |   |
 | 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  |  |  |    |
