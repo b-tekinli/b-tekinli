@@ -36,7 +36,7 @@
 
 ## Ecole 42 Stats
 
-[![btekinli's 42 stats](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42) 
+[![btekinli's 42 stats](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
