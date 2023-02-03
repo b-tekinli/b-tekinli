@@ -51,7 +51,7 @@
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
 | 7  | push_swap   | [![btekinli's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2708026)](https://github.com/JaeSeoKim/badge42) |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | [![btekinli's 42 minishell Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2952641)](https://github.com/JaeSeoKim/badge42) |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
-| 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
+| 9  | philosophers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
 
 
 
