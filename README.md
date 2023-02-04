@@ -12,7 +12,7 @@
 - 📚 I think reading books is the easiest way to improve yourself. (Clean Code - Robert Martin)  <br />
 
 
-<br />   
+<br />
 
 
 ![Profile views](https://gpvc.arturio.dev/b-tekinli) 
@@ -24,7 +24,7 @@
 ![snake gif](https://github.com/b-tekinli/b-tekinli/blob/output/github-contribution-grid-snake.gif)
 
 
-<br /> 
+<br />
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=BB-TR-Kaynak&title_color=00d7ea&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/BB-TR-Kaynak) 
@@ -51,7 +51,7 @@
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
 | 7  | push_swap   | [![btekinli's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2708026)](https://github.com/JaeSeoKim/badge42) |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | [![btekinli's 42 minishell Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2952641)](https://github.com/JaeSeoKim/badge42) |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
-| 9  | philosophers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
+| 9  | philosophers   | [![btekinli's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2947942)](https://github.com/JaeSeoKim/badge42) |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
 
 
 
