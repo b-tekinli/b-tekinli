@@ -48,7 +48,7 @@
 | 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
 | 5B  | so_long   | [![btekinli's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2704147)](https://github.com/JaeSeoKim/badge42) |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
 | 6A  | minitalk   | [![btekinli's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2697984)](https://github.com/JaeSeoKim/badge42) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 | [![btekinli's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2746581)](https://github.com/JaeSeoKim/badge42) |
-| 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
+| 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | [![btekinli's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2968737)](https://github.com/JaeSeoKim/badge42)  |
 | 7  | push_swap   | [![btekinli's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2708026)](https://github.com/JaeSeoKim/badge42) |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | [![btekinli's 42 minishell Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2952641)](https://github.com/JaeSeoKim/badge42) |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
 | 9  | philosophers   | [![btekinli's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2947942)](https://github.com/JaeSeoKim/badge42) |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
