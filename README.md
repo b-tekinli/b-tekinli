@@ -86,7 +86,7 @@
  <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=synthwave&hide_border=true&background=292E36&stroke=00B3DD&ring=DD7D7D&fire=DD2727&currStreakNum=DD9F60&sideNums=DD9100&currStreakLabel=DD2727&sideLabels=DD5855&dates=FFDDA5" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=synthwave&hide_border=true&background=2b213a&stroke=ef8539&ring=292E36&fire=e5289e&currStreakNum=DD9F60&sideNums=DD9100&currStreakLabel=DD2727&sideLabels=DD5855&dates=FFDDA5" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
