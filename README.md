@@ -73,7 +73,7 @@
  <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    [![Beyza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/b-tekinli/github-readme-stats#gh-dark-mode-only)
+    [![Beyza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&theme=synthwave#gh-dark-mode-only)](https://github.com/b-tekinli/github-readme-stats#gh-dark-mode-only)
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=66ff66&icon_color=ffdf00&text_color=ffffff&bg_color=292E36&icon=5C4F31&ring=292E36&hide_border=true" /> -->
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
