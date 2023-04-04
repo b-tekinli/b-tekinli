@@ -73,7 +73,7 @@
 <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828&icon=5C4F31&ring=292E36&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&icon=5C4F31&ring=292E36&hide_border=true" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
