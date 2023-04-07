@@ -86,7 +86,7 @@
  <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=synthwave&hide_border=true&background=2b213a&stroke=ef8539&ring=e2e9ec&fire=e2e9ec&currStreakNum=e5289e&sideNums=e5289e&currStreakLabel=DD2727&sideLabels=e2e9ec&dates=FFDDA5" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=synthwave&background=2b213a&stroke=ef8539&ring=e2e9ec&fire=e2e9ec&currStreakNum=e5289e&sideNums=e5289e&currStreakLabel=DD2727&sideLabels=e2e9ec&dates=FFDDA5" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
@@ -100,7 +100,7 @@
   <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=23&title_color=e2e9ec&text_color=e5289e&bg_color=2b213a&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=23&title_color=e2e9ec&text_color=e5289e&bg_color=2b213a" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
