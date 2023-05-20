@@ -65,6 +65,7 @@
   <summary>:zap: GitHub Stats</summary>
 -->
 
+
 # Github Stats
 
  <br />
@@ -72,7 +73,7 @@
   <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&icon=5C4F31&ring=292E36&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffb300&text_color=2e3440&bg_color=ffffff&icon=5C4F31&ring=292E36&count_private=true" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
@@ -85,7 +86,7 @@
  <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=synthwave&background=2b213a&stroke=ef8539&ring=e2e9ec&fire=e2e9ec&currStreakNum=e5289e&sideNums=e5289e&currStreakLabel=DD2727&sideLabels=e2e9ec&dates=FFDDA5" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=dark&background=ffffff&stroke=ffb300&ring=ff0000&fire=ff0000&currStreakNum=000000&sideNums=000000&currStreakLabel=dd2727&sideLabels=00e676&dates=9c36b5" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
@@ -99,7 +100,7 @@
   <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=23&title_color=e2e9ec&text_color=e5289e&bg_color=2b213a" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=23&title_color=ff0000&text_color=8c001a&bg_color=ffffff" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
@@ -107,14 +108,14 @@
   
   
  <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=25&title_color=66ff66&text_color=ffffff&bg_color=292E36&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=25&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
 -->
 
 
 <br />
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=tokyo)
 
 
 <br />
@@ -127,6 +128,7 @@
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> 
+
 
 <!--
 </details>
