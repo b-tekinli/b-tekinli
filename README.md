@@ -51,9 +51,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -75,7 +78,7 @@
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
 | :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
 | 1  | libft   | <!-- [![btekinli's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2449877)](https://github.com/JaeSeoKim/badge42) --> ✅ | | 10A | cub3d   | <!-- [![btekinli's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/3022909)](https://github.com/JaeSeoKim/badge42) --> ✅ | | 20 | CPP Module 09   | 🔒   |
-| 2  | born2beroot   | <!-- [![btekinli's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2596505)](https://github.com/JaeSeoKim/badge42) --> ✅ |  | 10B | miniRT   | 🔒   |  | 21 | NetPractice | [![btekinli's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2976226)](https://github.com/JaeSeoKim/badge42)  |
+| 2  | born2beroot   | <!-- [![btekinli's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2596505)](https://github.com/JaeSeoKim/badge42) --> ✅ |  | 10B | miniRT   | 🔒   |  | 21 | NetPractice | <!-- [![btekinli's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2976226)](https://github.com/JaeSeoKim/badge42) --> ✅ |
 | 3  | ft_printf   | [![btekinli's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2596504)](https://github.com/JaeSeoKim/badge42) |  | 11 | CPP Module 00   | [![btekinli's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2976227)](https://github.com/JaeSeoKim/badge42)  |  | 22A | ft_irc | [![btekinli's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/3098649)](https://github.com/JaeSeoKim/badge42)  |
 | 4  | get_next_line   | [![btekinli's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/2596503)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | [![btekinli's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/3024094)](https://github.com/JaeSeoKim/badge42)  |  | 22B | webserv | 🔒   |
 | 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | [![btekinli's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/3086740)](https://github.com/JaeSeoKim/badge42)  |  | 23 | inception | [![btekinli's 42 Inception Score](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/project/3098589)](https://github.com/JaeSeoKim/badge42)  |
