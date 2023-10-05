@@ -19,12 +19,9 @@
 <br />
 
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{b-tekinli}/count.svg) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-tekinli&label=Profile%20views&color=ff0000&style=flat" alt="b-tekinli" /> </p>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{b-tekinli}/count.svg) -->
 <!-- [![Profile views](https://badges.zahtec.com/views/:b-tekinli)](https://badges.zahtec.com/views/:username?color=ff0000) -->
-
-
-<br />
 
 
 <!-- ![snake gif](https://github.com/b-tekinli/b-tekinli/blob/output/github-contribution-grid-snake.gif) --> 
