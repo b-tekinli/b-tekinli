@@ -19,7 +19,8 @@
 <br />
 
 
-[![Profile views](https://badges.zahtec.com/views/:b-tekinli)](https://badges.zahtec.com/views/:username?color=ff0000)
+![Visitor Count](https://profile-counter.glitch.me/{b-tekinli}/count.svg)
+<!-- [![Profile views](https://badges.zahtec.com/views/:b-tekinli)](https://badges.zahtec.com/views/:username?color=ff0000) -->
 
 
 <br />
