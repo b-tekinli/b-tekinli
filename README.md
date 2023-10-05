@@ -13,14 +13,13 @@
 - 📚 I think reading books is the easiest way to improve yourself. (Clean Code - Robert Martin)  <br />
 
 
-
 ![js](https://github.com/b-tekinli/b-tekinli/blob/main/img/js.gif)
 
 
 <br />
 
 
-![Profile views](https://gpvc.arturio.dev/b-tekinli)
+[![Profile views](https://badges.zahtec.com/views/:b-tekinli)](https://badges.zahtec.com/views/:username?color=ff0000)
 
 
 <br />
