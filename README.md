@@ -26,6 +26,13 @@
 
 <!-- ![snake gif](https://github.com/b-tekinli/b-tekinli/blob/output/github-contribution-grid-snake.gif) --> 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b-tekinli/b-tekinli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b-tekinli/b-tekinli/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/b-tekinli/b-tekinli/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b-tekinli&repo=BB-TR-Kaynak&title_color=00d7ea&text_color=ffffff&bg_color=292E36&icon=fdf000&hide_border=true)](https://github.com/b-tekinli/BB-TR-Kaynak)
