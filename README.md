@@ -27,6 +27,8 @@
 
 ![codewars](https://www.codewars.com/users/b-tekinli/badges/large)
 
+![Codewars](https://github.r2v.ch/codewars?user=b-tekinli&name=true&top_languages=true&theme=gradient)
+
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{b-tekinli}/count.svg) -->
 <!-- [![Profile views](https://badges.zahtec.com/views/:b-tekinli)](https://badges.zahtec.com/views/:username?color=ff0000) -->
