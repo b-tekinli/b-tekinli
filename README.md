@@ -142,7 +142,7 @@
   <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=23&title_color=ff0000&text_color=8c001a&bg_color=ffffff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=26&title_color=ff0000&text_color=8c001a&bg_color=ffffff" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
