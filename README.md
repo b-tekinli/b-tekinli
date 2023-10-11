@@ -10,7 +10,10 @@
 - 🔭 I’m currently working on Frontend Development.  <br />
 - 💬 I love software so I spend my waste time with it. Sometimes, if I have a problem about my project, I try to solve that project without sleeping until morning. My only goal is that to make the world a better place for all of us.   <br />
 - ✌️ I want to collaborate with a group on a project.  <br />
-- 📚 I think reading books is the easiest way to improve yourself. (Clean Code - Robert Martin)  <br />
+- 📚 I think reading books is the easiest way to improve yourself. (Clean Code - Robert Martin)  
+
+
+<br />
 
 
 ![js](https://github.com/b-tekinli/b-tekinli/blob/main/img/js.gif)
