@@ -87,6 +87,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=for-the-badge&logoColor=white)
 
+
+<!-- ![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=for-the-badge) -->
+
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
 <br />
