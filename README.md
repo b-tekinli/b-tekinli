@@ -69,6 +69,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=for-the-badge&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&style=for-the-badge&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=for-the-badge&logoColor=white)
@@ -84,7 +86,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=for-the-badge&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&style=for-the-badge&logoColor=white)
 
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
