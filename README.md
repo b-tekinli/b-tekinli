@@ -97,7 +97,7 @@
 <br />
 
 
-## Ecole 42 Stats
+## <h2><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhYTE3NDU5OWVhOGEzMjE2ZjM4NTNmYTI1NjlhN2UwZmRjZjNjNCZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="45"> Ecole 42 Stats </h2>
 
 [![btekinli's 42 stats](https://badge.mediaplus.ma/greenbinary/b-tekinli)](https://github.com/oakoudad/badge42) 
 
