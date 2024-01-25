@@ -6,7 +6,7 @@
 <img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right">
 
 
-- ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration.
+- ⚡ I am really interested in programming. I am very passionately committed to self-improvement. I enjoy every step of the design process, from discussion and collaboration.
 - 🔭 I’m currently working on Frontend Development.  <br />
 - 💬 I love software so I spend my waste time with it. Sometimes, if I have a problem about my project, I try to solve that project without sleeping until morning. My only goal is that to make the world a better place for all of us.   <br />
 - ✌️ I want to collaborate with a group on a project.  <br />
@@ -36,6 +36,8 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{b-tekinli}/count.svg) -->
 <!-- [![Profile views](https://badges.zahtec.com/views/:b-tekinli)](https://badges.zahtec.com/views/:username?color=ff0000) -->
 <!-- ![snake gif](https://github.com/b-tekinli/b-tekinli/blob/output/github-contribution-grid-snake.gif) --> 
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b-tekinli/b-tekinli/output/github-contribution-grid-snake-dark.svg">
