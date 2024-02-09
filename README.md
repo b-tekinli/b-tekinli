@@ -13,7 +13,7 @@
 - 📚 I think reading books is the easiest way to improve yourself. (Clean Code - Robert Martin)
 
 
-<br/>
+<br />
 
 
 ![js](https://github.com/b-tekinli/b-tekinli/blob/main/img/js.gif)
