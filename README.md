@@ -17,7 +17,7 @@
 <br />
 
 
-![js](https://github.com/b-tekinli/b-tekinli/blob/main/img/js.gif) 
+![js](https://github.com/b-tekinli/b-tekinli/blob/main/img/js.gif)
 
 
 <br />
