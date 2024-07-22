@@ -8,7 +8,7 @@
 
 
 - ⚡ I am really interested in programming. I am very passionately committed to self-improvement. I enjoy every step of the design process, from discussion and collaboration.
-- 🔭 I'm currently working on Frontend Development and Embedded Development.
+- 🔭 I'm currently working on Cyber Security.
 - 💬 I love software so I spend my waste time with it. Sometimes, if I have a problem about my project, I try to solve that project without sleeping until morning. My only goal is that to make the world a better place for all of us.   <br />
 - ✌️ I want to collaborate with a group on a project.
 - 📚 I think reading books is the easiest way to improve yourself. (Clean Code - Robert Martin)
