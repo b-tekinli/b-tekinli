@@ -19,7 +19,7 @@
 
 <p align='center'>
   <a href="https://gist.github.com/b-tekinli"><img src="https://img.shields.io/badge/my%20gists-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://b-tekinli.github.io/"><img src="https://img.shields.io/badge/btekinli.me-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=red" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://b-tekinli.github.io/"><img src="https://img.shields.io/badge/b-tekinli.github.io-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=red" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
