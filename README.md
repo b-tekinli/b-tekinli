@@ -1,7 +1,7 @@
 ### Hi there, I'm Beyza 👋
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Computer+Programmer+and+Web+Application+Pentester💻)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Pentester💻)](https://git.io/typing-svg)
 
 
 <img src="https://github.com/b-tekinli/Yazilim-Teknikleri-ve-Diger-Yararli-Turkce-Kaynaklar/blob/main/images/code.gif" alt="Coding" width=200 height=200 align="right">
@@ -216,10 +216,8 @@
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-  <a href="https://twitter.com/beyzatdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beyzatdev" height="30" width="40" /></a>
-  <a href="https://medium.com/@beyzatekinli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzatekinli" height="30" width="40" /></a>
+  <a href="https://twitter.com/sudosuzroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beyzatdev" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/beyzanur-tekinli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanur-tekinli/" height="30" width="40" /></a>
-  <a href="https://discord.gg/sudosuz root#9401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sudosuz root#9401" height="30" width="40" /></a>
   
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
